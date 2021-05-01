@@ -20,8 +20,8 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/mikkildlebl/Lilycoin.git"
-  "dir": "Lilycoin"
+- "url": "https://github.com/mikkildlebl/lilycoin.git"
+  "dir": "lilycoin"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"
 - "qrencode-3.4.3.tar.bz2"
