@@ -4,13 +4,15 @@ Lilycoin integration/staging tree
 http://www.lilycoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Lilycoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2021 Lilycoin Developers
+
 
 What is Lilycoin?
 ----------------
 
 Lilycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 2.5 minute block target
  - subsidy halves in 200k blocks (~4 years)
  - ~1 million total coins
  - 25 coins per block
